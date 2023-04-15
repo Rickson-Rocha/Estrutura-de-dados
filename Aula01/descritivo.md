@@ -1,8 +1,10 @@
 
 # Sobre o problema:
 
-![problema proposto:](Aula01\descritivo.md)
+![problema proposto:](Aula01\descritivo.png)
 
+
+``````
 
 Aula01/
 ├── main.py
@@ -17,6 +19,8 @@ Aula01/
 │   ├── test_classe2.py
 │   └── ...
 └── README.md
+
+``````
 
 # Explicando organização do diretório: 
 
