@@ -1,7 +1,7 @@
 
 # Sobre o problema:
 
-![problema proposto:](Aula01/descritivo.png)
+![problema proposto:](problema.png)
 
 
 ``````
