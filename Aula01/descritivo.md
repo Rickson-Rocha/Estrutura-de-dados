@@ -1,7 +1,7 @@
 
 # Sobre o problema:
 
-![problema proposto:](Aula01\descritivo.png)
+![problema proposto:](Aula01/descritivo.png)
 
 
 ``````
@@ -24,8 +24,8 @@ Aula01/
 
 # Explicando organização do diretório: 
 
-*main.py: Arquivo principal que contém o código para executar a aplicação.
+* main.py: Arquivo principal que contém o código para executar a aplicação.
 
-*classes/: Pasta que contém os arquivos das classes criadas na aplicação. Cada arquivo deve conter a definição de uma classe. O arquivo __init__.py é necessário para que o Python reconheça essa pasta como um pacote.
+* classes/: Pasta que contém os arquivos das classes criadas na aplicação. Cada arquivo deve conter a definição de uma classe. O arquivo __init__.py é necessário para que o Python reconheça essa pasta como um pacote.
 
-*testes/: Pasta que contém os arquivos de teste para cada classe criada na aplicação. Cada arquivo deve conter os testes para uma única classe. O arquivo __init__.py é necessário para que o Python reconheça essa pasta como um pacote.
+* testes/: Pasta que contém os arquivos de teste para cada classe criada na aplicação. Cada arquivo deve conter os testes para uma única classe. O arquivo __init__.py é necessário para que o Python reconheça essa pasta como um pacote.
