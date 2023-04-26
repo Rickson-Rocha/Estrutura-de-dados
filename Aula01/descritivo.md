@@ -10,13 +10,13 @@ Aula01/
 ├── main.py
 ├── classes/
 │   ├── __init__.py
-│   ├── classe1.py
-│   ├── classe2.py
+│   ├── RepresentacaoCartesiana.py
+│   ├── RepresentacaoPolar.py
 │   └── ...
 ├── testes/
 │   ├── __init__.py
-│   ├── test_classe1.py
-│   ├── test_classe2.py
+│   ├── test_RepresentacaoCartesiana.py
+│   ├── test_RepresentacaoPolar.py
 │   └── ...
 └── README.md
 
