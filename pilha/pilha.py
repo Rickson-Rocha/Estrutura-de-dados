@@ -7,6 +7,9 @@ class Pilha:
         self.tamanho = 0
     
     def is_empty(self):
+        """Verifica o  da pilha
+         retornando TRUE caso o a pilha esteja vazia ou false caso a pilha contenha alguma elemento
+        """
         if self.tamanho == 0 :
             return True
         return False
@@ -24,4 +27,4 @@ class Pilha:
         pass
 
     def get_size(self):
-        pass
+        return self.tamanho
